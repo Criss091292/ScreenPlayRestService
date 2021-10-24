@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Filtrar comments" skipped="0" tests="2" time="10.44" timestamp="2021-10-24 03:50:59"><testcase name="consultar por campo existente"/><testcase name="consultar por campo inexistente"/></testsuite>
